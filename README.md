@@ -1,11 +1,14 @@
 # 💫 About Me:
-Hello! I'm an OSDev programmer who loves Operating Systems and Computer Science.
+Hello! My name is Yazin, I'm an OSDev programmer who loves Operating Systems and Computer Science.
+I founded the Aspen Software Foundation from the ground up with the help of my partners & teammates
+I also enjoy a nice cup of tea or coffee once in a while
+For those who want to know, I am 13 (and a half) at the time of writing this
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30553383/yazin-tantawi)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SemanticDeveloper)  
 
 
-# 💻 Tech Stack:
+# 💻 Programming languages i know:
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)  
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))  
