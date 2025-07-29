@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hello! My name is Yazin, I'm an OSDev programmer who loves Operating Systems and Computer Science.
-I founded the Aspen Software Foundation from the ground up with the help of my partners & teammates
-I also enjoy a nice cup of tea or coffee once in a while
-For those who want to know, I am 13 (and a half) at the time of writing this
+I founded the Aspen Software Foundation from the ground up with the help of my partners & teammates.
+I also enjoy a nice cup of tea or coffee once in a while.
+For those who want to know, I am 13 (and a half) at the time of writing this.
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30553383/yazin-tantawi)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SemanticDeveloper)  
